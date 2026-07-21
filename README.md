@@ -10,7 +10,7 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, SQL, Basic C
+**Languages:** Python, SQL
 
 **Data & ML:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
